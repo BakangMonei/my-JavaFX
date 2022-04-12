@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JavaFXLLoginAndSignUp1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaFXLLoginAndSignUp/jfoenix-8.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaFXLLoginAndSignUp/controlsfx-8.40.11.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../Program Files/Java FX 16/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../Program Files/Java FX 16/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../../Program Files/Java FX 16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../../Program Files/Java FX 16/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
